@@ -1,0 +1,7 @@
+[user]
+	name = Susan Stringer
+	email = snorman@ucar.edu
+[push]
+	default = matching
+[core]
+        excludesfile = ~/.gitignore-global
